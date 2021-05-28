@@ -1,9 +1,10 @@
 {
-    "name": "matt/magento-schema-model-generator",
+    "name": "beebots/magento-schema-model-generator",
     "type": "library",
     "license": "MIT",
     "description": "A PHP library for generating magento models",
     "keywords": ["magento", "helper", "schema", "generator"],
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Matt Campbell",
