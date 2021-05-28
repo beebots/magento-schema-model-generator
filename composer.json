@@ -1,0 +1,15 @@
+{
+    "name": "matt/magento-schema-model-generator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Campbell",
+            "email": "cascadiamatt@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
