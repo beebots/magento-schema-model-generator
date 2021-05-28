@@ -2,6 +2,8 @@
     "name": "matt/magento-schema-model-generator",
     "type": "library",
     "license": "MIT",
+    "description": "A PHP library for generating magento models",
+    "keywords": ["magento", "helper", "schema", "generator"],
     "authors": [
         {
             "name": "Matt Campbell",
@@ -10,6 +12,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
+        "php": "^7.2.5|^8.0",
         "guzzlehttp/guzzle": "^7.3"
     }
 }
